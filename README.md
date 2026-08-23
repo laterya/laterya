@@ -4,9 +4,6 @@
 
 <br/>
 
-<a href="https://laterya.github.io">
-  <img src="https://img.shields.io/badge/Blog-laterya.github.io-8957E5?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" />
-</a>
 <a href="https://github.com/laterya?tab=followers">
   <img src="https://img.shields.io/github/followers/laterya?label=Followers&style=for-the-badge&logo=github&color=238636" alt="Followers" />
 </a>
@@ -21,7 +18,6 @@
 - 🔭 正在做：**MCP 网关** 与 **AI 运维（AI-Ops）** 的工程化落地
 - 🌱 持续深耕：LangChain4j / Spring AI / RAG / Agent 工作流
 - 💬 可以和我聊：Java · Spring 生态 · LLM 应用架构
-- ✍️ 偶尔写写博客：[laterya.github.io](https://laterya.github.io)
 - ⚡ 座右铭：能自动化的，绝不手动
 
 ---
